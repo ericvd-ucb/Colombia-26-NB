@@ -1,0 +1,15 @@
+pandas
+polars
+numpy
+matplotlib
+plotly
+scipy
+statsmodels
+scikit-learn
+xgboost
+yfinance
+fredapi
+ipywidgets
+sqlalchemy
+jupysql
+python-dotenv
