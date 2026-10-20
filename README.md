@@ -38,3 +38,5 @@ data/        saved data so every notebook runs without live downloads
 ## License
 
 Materials are shared for teaching. Data sources are credited in each notebook.
+
+shh dont tell anyone = "52b7b38ac6fa55dfa979e6c533b779bb"
